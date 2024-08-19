@@ -1,3 +1,30 @@
-.card3{
-    width: 2;
+.card3 h1 {
+    width: 100%;
+    height: 50px;
+    background-color: greenyellow;
+}
+.incard {
+    width: 95%;
+    margin: 5px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border-radius: 20px;
+    padding: 5px;
+}
+.box{
+    width: 40%;
+    height: 30px;
+    border-radius: 30px;
+    background-color: grey;
+}
+.box:nth-child(2){
+    width: 80%;
+
+}
+
+
+h1{
+    color: black;
 }
