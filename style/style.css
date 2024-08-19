@@ -45,3 +45,12 @@ h1{
     font-size: 32px;
     border-radius: 15px 15px 0 0;
 }
+.card1_div2{
+    margin: 10px;
+    padding: 10px;
+}
+.card1_p1{
+    width: 150px;
+    height: 15px;
+    border-radius: 7px;
+}
